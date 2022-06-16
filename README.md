@@ -43,7 +43,8 @@ The easiest way to host this bot, deploy to Heroku, Change the app country to Eu
 
 
 ## ᴄʀᴇᴅɪᴛs 💖
-- [OWNER](https://github.com/DYNANETWORK) for [SOURCE](https://github.com/DYNANETWORK/GITGRAMBOT)
+- [OWNER](https://github.com/DYNANETWORK) 
+- [SOURCE](https://github.com/DYNANETWORK/GITGRAMBOT)
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 ## sᴜᴩᴩᴏʀᴛ 🎑
