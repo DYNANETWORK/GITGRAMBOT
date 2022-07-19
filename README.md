@@ -48,7 +48,7 @@ The easiest way to host this bot, deploy to Heroku, Change the app country to Eu
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 ## sᴜᴩᴩᴏʀᴛ 🎑
-<a href="https://t.me/cute_friendx"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/MAMBA_X_SUPPORT"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 -------------------------------------------------
 -------------------------------------------------
