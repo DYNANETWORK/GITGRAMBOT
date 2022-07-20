@@ -9,12 +9,10 @@ RUN sudo apt update && sudo apt upgrade -y && \
     curl \
     git \
     sudo \
-    util-linux \
     libffi-dev \
     libjpeg-dev \
     libjpeg62-turbo-dev \
     libwebp-dev \
-    linux-headers-amd64 \
     python3-lxml \
     python3-pip \
     python3-requests \
